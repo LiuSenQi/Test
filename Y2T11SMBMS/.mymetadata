@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Y2T11SMBMS"
+  id="myeclipse.1505464894534"
+  context-root="/Y2T11SMBMS"
+  j2ee-spec="6.0"
+  archive="Y2T11SMBMS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
