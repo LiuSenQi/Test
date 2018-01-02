@@ -24,6 +24,11 @@ import cn.service.bill.BillService;
 import cn.service.provider.*;
 import cn.pojo.User;
 import cn.tools.Constants;
+/**
+ * 帐单控制类
+ * @author Administrator
+ *
+ */
 @Controller
 @RequestMapping(value="/bill")
 public class BillController {
