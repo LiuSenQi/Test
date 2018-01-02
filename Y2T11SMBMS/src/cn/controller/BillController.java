@@ -27,7 +27,7 @@ import cn.tools.Constants;
 /**
  * 帐单控制类
  * @author Administrator
- *
+ *20180102
  */
 @Controller
 @RequestMapping(value="/bill")
